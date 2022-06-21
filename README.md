@@ -53,4 +53,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmanueldaza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📽️ Projects :
+--MUSIC APP: https://juanmanueldaza.github.io/music-app/
+--PALABRAS DE ALIENTO: https://juanmanueldaza.github.io/palabras-de-aliento/
+--GIFOS: https://juanmanueldaza.github.io/gifosAcamica/
 
