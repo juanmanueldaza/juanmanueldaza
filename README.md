@@ -1,12 +1,8 @@
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Buenos Aires, Argentina.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-juanmanueldaza-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/juanmanueldaza)
-
-### :hammer_and_wrench: Languages and Tools :
+I am a creative web developer based in Argentina. 
+I'm currently learning Three.js.
+I'm interested in Open Source and Tech Coops.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
