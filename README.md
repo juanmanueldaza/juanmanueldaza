@@ -1,5 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmanueldaza&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
+**Currently Focused in**
+
+[THREE.JS](https://github.com/mrdoob/three.js)
+[VUE 3](https://github.com/vuejs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmanueldaza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
