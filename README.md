@@ -1,6 +1,1 @@
-I'm an agnostic Fullstack Developer. My work these days is focused on the development of web sites and apps with technologies like: Vue.js, Vite, Node.Js, Javascript, PHP, CodeIgniter.
-
-I also have a background on music journalism, english and spanish teaching, cultural management.
-
-**Currently Working in**
-[VUE 3](https://github.com/vuejs)
+Full Stack Web Developer with a passion for building innovative digital solutions. With 4+ years of experience in technologies like JavaScript, Vue.js, and Node.js, I enjoy tackling new challenges and learning from each project. My background in music journalism, teaching, and cultural management brings a unique perspective to my work. I'm always looking to grow and improve, and I'm excited to collaborate with others who share my enthusiasm for tech and creativity.
