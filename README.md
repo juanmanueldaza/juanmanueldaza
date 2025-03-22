@@ -18,6 +18,16 @@ Beyond coding, my diverse background in **music journalism**, **teaching**, and 
 
 - **[Wallpapers](https://github.com/juanmanueldaza/wallpapers)**: Showcasing 35mm analog photography.
   - Website: [wallpapers.ultravietnamita.com.ar](https://wallpapers.ultravietnamita.com.ar/)
+- **[Pokédex](https://github.com/roofsonfire/pokedex)**: An interactive application to explore and visualize information about Pokémon, developed with **"Roofs on Fire"**, a group of creative developers based in Argentina.
+- **Features**:
+  - Search Pokémon by name or ID.
+  - View detailed stats like height, HP, attack, defense, and speed.
+  - Switch between dynamic sprites, including shiny versions.
+  - Play Pokémon cries with integrated audio.
+  - Interactive help mode explaining button functionalities.
+  - Functional D-Pad navigation and mute button.
+- **Technologies**: HTML5, CSS3, JavaScript, Tone.js, and PokéAPI.
+- **Live Demo**: [roofsonfire.github.io/pokedex/](https://roofsonfire.github.io/pokedex/)
 
 ---
 
