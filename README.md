@@ -1,17 +1,37 @@
-- I've worked a lot around music:
-  
-  - I've been a music journalist.
-  - I've been a venue producer and programmer.
-  - I've been a host, curator, creator, and organizer of parties, music and poetry festivals, music concerts, tours, and strategic press and promotion plans.
+# Juan Manuel Daza
 
-- I also did a lot around language:
+## 🎵 About Music
+I have dedicated a significant part of my life to music:
 
-  - I have founded a poetry publishing house.
-  - I taught Spanish and English as a way of living.
-  - I've published and printed poetry books and fanzines.
-  - I co-founded a poetry publishing house as part of a collective.
+- 🎤 Music journalist.
+- 🎭 Event producer and programmer.
+- 🎉 Organizer and curator of:
+  - Music and poetry festivals.
+  - Concerts and music tours.
+  - Strategic press and promotion plans.
 
-- I also write code.
-  - I work as a "Full Stack Web Developer". 
-  - I've worked with JavaScript, TypeScript, PHP, and Python.
-  - I love to learn, to change. I don't get bored.
+## ✍️ About Language
+My passion for language has led me to:
+
+- 📚 Found a poetry publishing house.
+- 🧑‍🏫 Teach Spanish and English as a profession.
+- 🖋️ Publish and edit poetry books and fanzines.
+- 🤝 Co-found a poetry publishing house as part of a collective.
+
+## 📸 About Photography
+I also work with 35mm analog photography:
+
+- 📷 I shoot, develop, and scan my own photographs.
+- 🌐 Project: [Wallpapers](https://github.com/juanmanueldaza/wallpapers)
+  - Website: [wallpapers.ultravietnamita.com.ar](https://wallpapers.ultravietnamita.com.ar/)
+
+## 💻 About Code
+Currently, I work as a **Full Stack Web Developer**:
+
+- 🛠️ Technologies: JavaScript, TypeScript, PHP, Python.
+- 🌱 Passionate about learning and adapting to new challenges.
+- 🚀 Always looking for new ways to create and improve.
+
+---
+
+✨ _"Creativity is the common thread between art, language, and technology."_ ✨
