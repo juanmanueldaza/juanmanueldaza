@@ -1,31 +1,22 @@
-**Initiating Personal Log... Stardate 2025.03.22**
+I am a **Full Stack Web Developer** with over 4 years of
+experience, specializing in technologies such as **JavaScript**,
+**PHP**, **Node.js**, and **Python**, as well as frameworks and
+libraries like **Vue**, **React**, **CodeIgniter**, **Django**, and **Nest.js**.
+I enjoy solving complex problems and continuously learning
+to stay at the forefront of the ever-changing technological
+landscape.
 
-I am a **Full Stack Web Developer** with over 4 years of experience in crafting scalable, user-friendly, and impactful digital solutions. My mission is to boldly go where no developer has gone before, exploring the vast universe of technology and innovation. My expertise spans modern technologies such as **JavaScript**, **Vue.js**, **Node.js**, and **Python**, with a strong foundation in both front-end and back-end development. I thrive on solving complex problems and continuously learning to stay ahead in the ever-evolving tech landscape.
-
-Beyond coding, my diverse background in **music journalism**, **teaching**, and **cultural management** brings a unique perspective to my work, blending creativity with technical expertise. I am driven by the desire to transform the way we interact with technology, combining innovation and artistry to create meaningful solutions.
-
----
-
-## 🛠️ Key Skills
-
-- **Programming Languages**: JavaScript, TypeScript, PHP, Python, Bash.
-- **Frameworks & Tools**: Vue.js, React.js, Node.js, Django, NestJS, Docker.
-- **Other Expertise**: REST APIs, GraphQL, MySQL, MongoDB, Git, Linux.
-
----
+My experience in music journalism, teaching, and cultural
+management brings a unique perspective to my work, combining
+creativity with technical expertise. I am driven by the
+desire to transform the way we interact with technology,
+merging innovation and art to create meaningful solutions.
 
 ## 🎨 Creative Projects
 
 - **[Wallpapers](https://github.com/juanmanueldaza/wallpapers)**: Showcasing 35mm analog photography.
   - Website: [wallpapers.ultravietnamita.com.ar](https://wallpapers.ultravietnamita.com.ar/)
 - **[Pokédex](https://github.com/roofsonfire/pokedex)**: An interactive application to explore and visualize information about Pokémon, developed with **"Roofs on Fire"**, a group of creative developers based in Argentina.
-- **Features**:
-  - Search Pokémon by name or ID.
-  - View detailed stats like height, HP, attack, defense, and speed.
-  - Switch between dynamic sprites, including shiny versions.
-  - Play Pokémon cries with integrated audio.
-  - Interactive help mode explaining button functionalities.
-  - Functional D-Pad navigation and mute button.
 - **Technologies**: HTML5, CSS3, JavaScript, Tone.js, and PokéAPI.
 - **Live Demo**: [roofsonfire.github.io/pokedex/](https://roofsonfire.github.io/pokedex/)
 
@@ -57,5 +48,3 @@ Beyond coding, my diverse background in **music journalism**, **teaching**, and 
 I aim to grow as an **innovative software developer**, collaborating with like-minded professionals to push the boundaries of technology. My goal is to create solutions that not only solve problems but also inspire creativity and connection.
 
 ---
-
-**End of Log. Awaiting New Mission...**
