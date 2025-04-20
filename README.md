@@ -6,7 +6,7 @@ I enjoy solving complex problems and continuously learning
 to stay at the forefront of the ever-changing technological
 landscape.
 
-My experience in music journalism, teaching, and cultural
+My experience in poetry, music journalism, teaching, and cultural
 management brings a unique perspective to my work, combining
 creativity with technical expertise. I am driven by the
 desire to transform the way we interact with technology,
