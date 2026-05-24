@@ -31,25 +31,6 @@ Zero-dependency Python CLIs that convert platform exports into clean Markdown fo
 
 ---
 
-## Recent Milestones
-
-- **First community PR on NERV** — Miriam-R-coder contributed a welcome workflow + Dependabot config
-- **Submitted to 3 awesome lists** — awesome-opencode, kyrolabs/awesome-agents, e2b-dev/awesome-ai-agents
-- **All 4 main projects protected** — PRs required, CI must pass, consistent GPLv2 licensing
-- **NERV entry added to READMEs** of l06_p0s3, linkedin2md, and NERV Framework docs across all repos
-
----
-
-## How I Work
-
-- **GPLv2** — All my projects are GPL-2.0 licensed. Copyleft is the default.
-- **Zero dependencies** — My CLI tools use only the Python standard library. No supply chain attacks, no version hell.
-- **OWASP-reviewed** — Path traversal, injection, and access control covered in dedicated test suites, not afterthoughts.
-- **Branch protection as infrastructure** — Main is sacred. PRs + passing CI or it doesn't ship.
-- **Ex-journalist** — I write docs and commit messages that tell you *why*, not just *what*.
-
----
-
 ## Stack
 
 | | |
