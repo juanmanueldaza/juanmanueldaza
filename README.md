@@ -1,8 +1,8 @@
 # Hi, I'm Juan Manuel Daza 👋
 
-**Agentic AI Engineer** — Building production AI agent infrastructure with persistent memory, cross-agent delegation, and career intelligence tooling.
+**Agentic AI Engineer** — Building production AI agent infrastructure. Open-source first. GPLv2 all the way.
 
-Previously a journalist for 15 years. I bring that storytelling instinct to technical communication: zero-dependency CLIs, clean abstractions, and docs that actually explain things.
+Previously a journalist for 15 years (Clarín, Rolling Stone AR). I bring that storytelling instinct to technical communication: zero-frills CLIs, clean abstractions, and docs that explain *why*, not just *what*.
 
 > Based in Buenos Aires. EU citizen (Spain). Open to remote AI Engineer roles across Europe.
 
@@ -12,27 +12,40 @@ Previously a journalist for 15 years. I bring that storytelling instinct to tech
 
 ### Agent Infrastructure
 
-| Project | What it does |
-|---------|-------------|
-| [**invencible**](https://github.com/juanmanueldaza/invencible) | Persistent memory + cross-agent delegation for Claude Code & Copilot CLI. Agents forget — invencible gives them shared context, coding standards, and a task hub so they can delegate to each other. |
-| [**fu7ur3pr00f**](https://github.com/juanmanueldaza/fu7ur3pr00f) | AI career agent: 41 tools, 12 MCP clients, 5 specialists. Takes your LinkedIn/GitHub/GitLab data, builds a RAG knowledge base, analyzes skill gaps, and generates ATS-optimized CVs. |
+| Project | ⭐ | What it does |
+|---------|-----|-------------|
+| [**NERV**](https://github.com/juanmanueldaza/nerv) | — | **Spec-Driven Development** for AI coding agents. A2A task delegation hub, MAGI persistent semantic memory, 9 specialized subagents. Runs `nerv init` to scaffold 45+ files. First community PR just landed! 🎉 |
+| [**invencible**](https://github.com/juanmanueldaza/invencible) | — | Persistent memory + cross-agent delegation for Claude Code & Copilot CLI. Agents forget — invencible gives them shared context, coding standards, and a task hub so they can delegate to each other. |
+| [**fu7ur3pr00f**](https://github.com/juanmanueldaza/fu7ur3pr00f) | — | AI career agent: 41 tools, 12 MCP clients, 5 specialists. Takes your LinkedIn/GitHub/GitLab data, builds a RAG knowledge base, analyzes skill gaps, and generates ATS-optimized CVs. |
+| [**l06_p0s3**](https://github.com/juanmanueldaza/l06_p0s3) | — | A newsroom OS — Ableton Live for journalists. Orchestrates AI agents for sourcing, research, and drafting with human-in-the-loop control. Next.js + LangGraph. |
 
 ### Data-to-Markdown Pipeline
 
-A family of zero-dependency Python CLIs that convert platform exports into clean Markdown for LLM analysis:
+Zero-dependency Python CLIs that convert platform exports into clean Markdown for LLM analysis:
 
 | Project | ⭐ | What it does |
 |---------|-------|-------------|
-| [**linkedin2md**](https://github.com/juanmanueldaza/linkedin2md) | 13 | LinkedIn data exports → Markdown & PDF resumes. 149 tests, security-hardened, OWASP-reviewed. |
+| [**linkedin2md**](https://github.com/juanmanueldaza/linkedin2md) | 13 | LinkedIn data exports → Markdown & PDF resumes. 149 tests, OWASP-reviewed. |
 | [**github2md**](https://github.com/juanmanueldaza/github2md) | — | GitHub profile data → Markdown. SOLID architecture, protocol-based DI. |
 | [**gitlab2md**](https://github.com/juanmanueldaza/gitlab2md) | — | GitLab profile data → Markdown. 177 tests, OWASP-reviewed. |
 
 ---
 
+## Recent Milestones
+
+- **First community PR on NERV** — Miriam-R-coder contributed a welcome workflow + Dependabot config
+- **Submitted to 3 awesome lists** — awesome-opencode, kyrolabs/awesome-agents, e2b-dev/awesome-ai-agents
+- **All 4 main projects protected** — PRs required, CI must pass, consistent GPLv2 licensing
+- **NERV entry added to READMEs** of l06_p0s3, linkedin2md, and NERV Framework docs across all repos
+
+---
+
 ## How I Work
 
-- **Zero dependencies** — My CLI tools use only the Python standard library. No supply chain attacks, no version hell, no breaking changes from transitive deps.
+- **GPLv2** — All my projects are GPL-2.0 licensed. Copyleft is the default.
+- **Zero dependencies** — My CLI tools use only the Python standard library. No supply chain attacks, no version hell.
 - **OWASP-reviewed** — Path traversal, injection, and access control covered in dedicated test suites, not afterthoughts.
+- **Branch protection as infrastructure** — Main is sacred. PRs + passing CI or it doesn't ship.
 - **Ex-journalist** — I write docs and commit messages that tell you *why*, not just *what*.
 
 ---
@@ -41,10 +54,11 @@ A family of zero-dependency Python CLIs that convert platform exports into clean
 
 | | |
 |---|---|
-| **Agent frameworks** | LangChain, MCP, Claude Code, Copilot CLI, Hermes Agent |
+| **Agent frameworks** | OpenCode, LangChain, MCP, Claude Code, Copilot CLI, Hermes Agent |
 | **Languages** | Python, TypeScript, Go |
 | **LLM / RAG** | ChromaDB, OpenAI, Claude, Gemini |
 | **Infra** | Docker, Linux, GitHub Actions, Azure |
+| **Package mgmt** | UV (tools), pip (projects) |
 
 ---
 
