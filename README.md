@@ -2,7 +2,7 @@
 
 **Agentic AI Engineer** — Building production AI agent infrastructure. Open-source first. GPLv2 all the way.
 
-Previously a journalist for 15 years (Clarín, Rolling Stone AR). I bring that storytelling instinct to technical communication: zero-frills CLIs, clean abstractions, and docs that explain *why*, not just *what*.
+Previously a journalist for 15 years (Clarín, Rolling Stone AR). I write docs that explain *why*, not just *what*. All my projects are zero-dependency CLIs, OWASP-reviewed by default, GPLv2 everywhere.
 
 > Based in Buenos Aires. EU citizen (Spain). Open to remote AI Engineer roles across Europe.
 
