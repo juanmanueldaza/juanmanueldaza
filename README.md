@@ -4,7 +4,7 @@
 
 Previously a journalist for 15 years (Clarín, Rolling Stone AR). I write docs that explain *why*, not just *what*. All my projects are zero-dependency CLIs, OWASP-reviewed by default, GPLv2 everywhere.
 
-> Based in Buenos Aires. EU citizen (Spain). Open to remote AI Engineer roles across Europe.
+> Based in Buenos Aires. EU citizen (Spain).
 
 ---
 
